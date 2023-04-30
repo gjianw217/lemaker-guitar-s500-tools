@@ -1,0 +1,3 @@
+[submodule "image-create-tools"]
+	path = image-create-tools
+	url = https://github.com/LeMaker/image-create-tools.git
